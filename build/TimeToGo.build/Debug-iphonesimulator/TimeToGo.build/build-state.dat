@@ -1,0 +1,535 @@
+TTimeToGo
+v7
+r0
+t354386498.229228
+cCheck dependencies
+cProcessInfoPlistFile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist TimeToGo-Info.plist
+cCompileXIB /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/MainWindow.xib
+cCompileXIB /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/TimeToGo.app/postCellBackground.png postCellBackground.png
+cProcessPCH /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch TimeToGo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo normal i386
+cGenerateDSYMFile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+cTouch /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.h
+c000000004D4F09AB0000000000000326
+t1297025451
+s806
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m
+c000000004D7705670000000000002134
+t1299645799
+s8500
+i"RootViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.h
+c000000004D4F076700000000000001DA
+t1297024871
+s474
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m
+c000000004D4F07670000000000000AAF
+t1297024871
+s2735
+i"TimeToGoAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/MainWindow.xib
+c000000004D4F105D0000000000007BEC
+t1297027165
+s31724
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib
+c000000004D770B58000000000000588C
+t1299647320
+s22668
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch
+c000000004D4F07670000000000000142
+t1297024871
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+t1332693698
+s272
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM
+t1332693698
+s102
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist
+t1297025774
+s595
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/MainWindow.nib
+t1297027176
+s1841
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/PkgInfo
+t1297025774
+s8
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/RootViewController.nib
+t1332693695
+s1191
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+t1332693698
+s25064
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/postCellBackground.png
+t1299645372
+s256
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o
+t1332693697
+s60348
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGo.LinkFileList
+c000000004D54791E00000000000001B2
+t1297381662
+s434
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o
+t1332693697
+s52680
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o
+t1332693697
+s6324
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m
+c000000004D4F0768000000000000016E
+t1297024872
+s366
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/postCellBackground.png
+c000000004D7703960000000000000100
+t1299645334
+s256
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m
+c000000004D530BA900000000000000D9
+t1297288105
+s217
+i"TimeTogoViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.h
+c000000004D4F09AB0000000000000326
+t1297025451
+s806
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m
+c000000004D4F93240000000000002047
+t1297060644
+s8263
+i"RootViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.h
+c000000004D4F076700000000000001DA
+t1297024871
+s474
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m
+c000000004D4F07670000000000000AAF
+t1297024871
+s2735
+i"TimeToGoAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/MainWindow.xib
+c000000004D4F105D0000000000007BEC
+t1297027165
+s31724
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/RootViewController.xib
+c000000004D4F0D1D0000000000005811
+t1297026333
+s22545
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeToGo_Prefix.pch
+c000000004D4F07670000000000000142
+t1297024871
+s322
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeTogoViewController.h
+c000000004D530C21000000000000015F
+t1297288225
+s351
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeTogoViewController.m
+c000000004D530BA900000000000000D9
+t1297288105
+s217
+i"TimeTogoViewController.h"
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+t1297287235
+s238
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM
+t1297287235
+s102
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist
+t1297025774
+s595
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/MainWindow.nib
+t1297027176
+s1841
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/PkgInfo
+t1297025774
+s8
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/RootViewController.nib
+t1297026338
+s1173
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+t1297287234
+s24904
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o
+t1297287233
+s59660
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGo.LinkFileList
+c000000004D4F0AEE00000000000001A3
+t1297025774
+s419
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o
+t1297025776
+s52668
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeTogoViewController.o
+t2
+s0
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o
+t1297025776
+s6316
+
+N/Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m
+c000000004D4F0768000000000000016E
+t1297024872
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch.gch
+t1297025775
+s15453392
+
+N/var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+t1297381663
+s15453392
+
+N/var/folders/fD/fDICY6E3428-XASp4CIKjU++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+t1298338828
+s15453392
+
+N/var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+t1332693696
+s15453392
+
+NTimeToGo-Info.plist
+c000000004D4F0767000000000000038D
+t1297024871
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies354386495#354386495#0(0"0(0#1#0"17242241536#0"0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354386497.188934
+e354386497.314427
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m354386497#354386497#0(0"0(0#0#78"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m4492893840#2151"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/RootViewController.m -o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318980030.536967
+e318980033.583307
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m318980030#318980033#0(0"0(0#0#73"/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m7307761437599099904#2100"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/RootViewController.m -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354386496.735667
+e354386497.188854
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m354386496#354386497#0(0"0(0#0#79"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m4492893840#2153"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/Classes/TimeToGoAppDelegate.m -o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318718576.083651
+e318718576.187230
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m318718576#318718576#0(0"0(0#0#74"/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m9219335680#2102"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/TimeToGoAppDelegate.m -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGoAppDelegate.o0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeTogoViewController.o /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeTogoViewController.o /Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeTogoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s354386496.734558
+e354386497.188692
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m354386496#354386497#0(0"0(0#0#56"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m4492893840#2115"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/main.m -o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o /Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318718576.080384
+e318718576.171041
+r1
+xCompileC
+xbuild/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m318718576#318718576#0(0"0(0#0#51"/Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m9219308736#2064"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -include /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch -c /Users/jfietkiewicz/Documents/xcode/TimeToGo/main.m -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/MainWindow.xib
+r0
+
+CCompileXIB /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib
+s354386495.056521
+e354386495.734576
+r1
+xCompileXIB
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib354386495#354386495#0(0"0(0#0#72"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib17242461440#682"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/RootViewController.nib /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jfietkiewicz/Documents/xcode/TimeToGo/MainWindow.xib
+s318719976.255892
+e318719976.859058
+r1
+xCompileXIB
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318719976#318719976#0(0"0(0#0#59"/Users/jfietkiewicz/Documents/xcode/TimeToGo/MainWindow.xib9299334752#651"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/MainWindow.nib /Users/jfietkiewicz/Documents/xcode/TimeToGo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/jfietkiewicz/Documents/xcode/TimeToGo/RootViewController.xib
+s318719138.629418
+e318719139.001630
+r1
+xCompileXIB
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib318719138#318719139#0(0"0(0#0#67"/Users/jfietkiewicz/Documents/xcode/TimeToGo/RootViewController.xib9292783904#667"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/RootViewController.nib /Users/jfietkiewicz/Documents/xcode/TimeToGo/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TimeToGo.app/postCellBackground.png postCellBackground.png
+s321338172.056581
+e321338172.065876
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TimeToGo.app/postCellBackground.png
+xpostCellBackground.png
+lSLF07#2@27"Copy postCellBackground.png321338172#321338172#0(0"0(0#0#72"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/postCellBackground.png8606056992#576"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/postCellBackground.png /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app0#
+
+CGenerateDSYMFile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+s354386498.074745
+e354386498.182776
+r1
+xGenerateDSYMFile
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TimeToGo.app.dSYM build/Debug-iphonesimulator/TimeToGo.app/TimeToGo354386498#354386498#0(0"0(0#0#99"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo4492893840#481"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo -o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM0#
+
+CGenerateDSYMFile /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+s318980034.911943
+e318980035.205412
+r1
+xGenerateDSYMFile
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/TimeToGo.app.dSYM build/Debug-iphonesimulator/TimeToGo.app/TimeToGo318980034#318980035#0(0"0(0#0#94"/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo8598660416#466"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app.dSYM0#
+
+CLd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo normal i386
+s354386497.314515
+e354386498.074644
+r1
+xLd
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+xnormal
+xi386
+lSLF07#2@104"Link /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo354386497#354386498#0(0"0(0#0#0"4492893840#1022"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -filelist /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo0#
+
+CLd /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo normal i386
+s318980033.583490
+e318980034.911853
+r1
+xLd
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo
+xnormal
+xi386
+lSLF07#2@99"Link /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo318980033#318980034#0(0"0(0#0#0"8603480640#997"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -F/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -filelist /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/Objects-normal/i386/TimeToGo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/TimeToGo0#
+
+CProcessInfoPlistFile /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist TimeToGo-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist TimeToGo-Info.plist
+s318718574.695960
+e318718574.699950
+r1
+xProcessInfoPlistFile
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist
+xTimeToGo-Info.plist
+lSLF07#2@27"Process TimeToGo-Info.plist318718574#318718574#0(0"0(0#0#64"/Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeToGo-Info.plist9217869696#562"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility TimeToGo-Info.plist -genpkginfo /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app/Info.plist0#
+
+CProcessPCH /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch.gch TimeToGo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318718575.176294
+e318718576.080229
+r1
+xProcessPCH
+x/var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch.gch
+xTimeToGo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TimeToGo_Prefix.pch318718575#318718576#0(0"0(0#0#64"/Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeToGo_Prefix.pch9219186816#1949"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -c /Users/jfietkiewicz/Documents/xcode/TimeToGo/TimeToGo_Prefix.pch -o /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-cdakvshrncxtojcqyazsfsjnxgiy/TimeToGo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch TimeToGo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319074462.803921
+e319074463.764836
+r1
+xProcessPCH
+x/var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+xTimeToGo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TimeToGo_Prefix.pch319074462#319074463#0(0"0(0#0#69"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch8018500069826062336#1999"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch -o /var/folders/bc/bckgyrlqOIiO2jFb1r6NoE++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/fD/fDICY6E3428-XASp4CIKjU++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch TimeToGo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320031627.681181
+e320031628.596930
+r1
+xProcessPCH
+x/var/folders/fD/fDICY6E3428-XASp4CIKjU++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+xTimeToGo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TimeToGo_Prefix.pch320031627#320031628#0(0"0(0#0#69"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch8603318176#1999"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch -o /var/folders/fD/fDICY6E3428-XASp4CIKjU++CAk/-Caches-/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch TimeToGo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s354386495.734744
+e354386496.734418
+r1
+xProcessPCH
+x/var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch
+xTimeToGo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile TimeToGo_Prefix.pch354386495#354386496#0(0"0(0#0#69"/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch4492893840#1995"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-generated-files.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-own-target-headers.hmap -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-all-target-headers.hmap -iquote /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/TimeToGo-project-headers.hmap -F/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/include -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources/i386 -I/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/TimeToGo.build/Debug-iphonesimulator/TimeToGo.build/DerivedSources -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/TimeToGo_Prefix.pch -o /var/folders/lh/4zgzmbcx6g72fd9kp7xw6g8h000f6c/C/com.apple.Xcode.14540/SharedPrecompiledHeaders/TimeToGo_Prefix-faimzercpxxvexhiygehirahqano/TimeToGo_Prefix.pch.gch0#
+
+CTouch /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+s354386498.182879
+e354386498.229175
+r1
+xTouch
+x/Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+lSLF07#2@96"Touch /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app354386498#354386498#0(0"0(0#0#0"4492893840#363"    cd /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/jfietkiewicz/Documents/xcode/Temp/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app0#
+
+CTouch /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+s318980035.205541
+e318980035.381173
+r1
+xTouch
+x/Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app
+lSLF07#2@91"Touch /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app318980035#318980035#0(0"0(0#0#0"8604268800#353"    cd /Users/jfietkiewicz/Documents/xcode/TimeToGo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/jfietkiewicz/Documents/xcode/TimeToGo/build/Debug-iphonesimulator/TimeToGo.app0#
+

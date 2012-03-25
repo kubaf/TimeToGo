@@ -1,0 +1,38 @@
+In file included from /Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:8:
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.h:11: error: duplicate interface declaration for class 'UIViewController'
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.h:14: error: redefinition of 'struct UIViewController'
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:12: error: no declaration of property 'pickerView' found in the interface
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:12: error: no declaration of property 'doneButton' found in the interface
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:12: error: no declaration of property 'dataArray' found in the interface
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:12: error: no declaration of property 'dateFormatter' found in the interface
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'view' requires method '-view' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'view' requires the method 'setView:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'nibName' requires method '-nibName' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'nibBundle' requires method '-nibBundle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'title' requires method '-title' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'title' requires the method 'setTitle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'modalViewController' requires method '-modalViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'modalTransitionStyle' requires method '-modalTransitionStyle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'modalTransitionStyle' requires the method 'setModalTransitionStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'modalPresentationStyle' requires method '-modalPresentationStyle' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'modalPresentationStyle' requires the method 'setModalPresentationStyle:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'wantsFullScreenLayout' requires method '-wantsFullScreenLayout' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'wantsFullScreenLayout' requires the method 'setWantsFullScreenLayout:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: property 'parentViewController' requires method '-parentViewController' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: incomplete implementation of class 'UIViewController'
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-dismissModalViewControllerAnimated:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-presentModalViewController:animated:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-didReceiveMemoryWarning' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewDidDisappear:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewWillDisappear:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewDidAppear:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewWillAppear:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-isViewLoaded' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewDidUnload' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-viewDidLoad' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-loadView' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-initWithNibName:bundle:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: incomplete implementation of class 'UIViewController'
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-initWithCoder:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: method definition for '-encodeWithCoder:' not found
+/Users/jfietkiewicz/Documents/xcode/TimeToGo/Classes/../TimeTogoViewController.m:14: warning: class 'UIViewController' does not fully implement the 'NSCoding' protocol
